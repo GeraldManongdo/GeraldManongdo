@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Gerald P. Manongdo 🚀
 
-🎓 BSIT Student @ National University
+🎓 BSIT Student @ National University<br>
 💻 Full-stack Web Developer and Software Developer
 
 
